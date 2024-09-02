@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Characters/RPG_Character/Animations/Locomotion/My_BS_LocomotionLocomotion.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Characters/RPG_Character/Animations/ABP_CourseRPGCharacter.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/AI/ABP_AI.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Characters/RPG_Character/Animations/Locomotion/Course_LocomotionBlendSpace1D.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Characters/RPG_Character/Animations/Locomotion/BS1D_LocomotionLocomotion.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Characters/RPG_Character/Animations/Locomotion/BS_LocomotionLocomotion.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Characters/RPG_Character/Animations/Locomotion/BS_Locomotion.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Characters/RPG_Character/Animations/ABP_RPG_Character.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/BluePrints/MyBlueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Characters/RPG_Character/Animations/SwordAttack/AnimNotify_SwordCombo.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/BluePrints/BP_Notify_SwordTraceLoop.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Characters/RPG_Character/Animations/SwordAttack/AnimNotify_ComboEnd.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/AI/BP_AI.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/BluePrints/BPC_AttackSystem.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/BluePrints/BPC_PlayerStats.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/BluePrints/BP_Dummy.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Equipment_System/BPC_EquipmentSystem.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Equipment_System/UI/WB_Equipment.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Equipment_System/UI/WB_Equip_Slot.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Equipment_System/UI/WB_ItemSlot.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/BluePrints/BP_Notify_SphereTrace.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/ThirdPerson/Blueprints/BP_DefaultThirdPersonCharacter.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
