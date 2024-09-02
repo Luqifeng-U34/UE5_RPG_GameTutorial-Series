@@ -30,7 +30,13 @@
 				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Equipment_System/UI/WB_ItemSlot.uasset",
 				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/BluePrints/BP_Notify_SphereTrace.uasset",
 				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/ThirdPerson/Blueprints/BP_DefaultThirdPersonCharacter.uasset",
-				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Characters/RPG_Character/Animations/Crouched/Course_Crouch_BlendSpace1D.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Characters/RPG_Character/Animations/Crouched/Crouch_BlendSpace1D.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/ThirdPerson/Input/Actions/IA_Crouched.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Characters/RPG_Character/Animations/Lean/L.uasset",
+				"E:/UE5/UE5_RPG_GameTutorial Series/PRG_DEMO/Content/Characters/RPG_Character/Animations/Lean/BS_Lean.uasset"
 			]
 		}
 	]
